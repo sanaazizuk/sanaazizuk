@@ -3,6 +3,7 @@
   <img src="https://raw.githubusercontent.com/sanaaziz-data/sanaaziz-data/main/Sana_GitHub_Banner_Typing(1).gif" width="100%">
 </p>
 
+
 # Hi, I'm Sana 👋
 
 I'm a data analyst based in London, with a background in Telecommunications Engineering. I got into data because I genuinely enjoy making sense of messy information, turning spreadsheets and databases into something that actually helps people make better decisions.
