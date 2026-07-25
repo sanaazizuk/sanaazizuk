@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sanaazizuk/sanaazizuk/main/Sana_GitHub_Banner_Typing%281%29.gif" width="100%">
+  <img src="PASTE_THE_URL_GITHUB_GENERATED" width="100%">
 </p>
 
 
