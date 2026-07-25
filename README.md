@@ -1,16 +1,11 @@
-<p align="center">
-  <img src="PASTE_THE_URL_GITHUB_GENERATED" width="100%">
-</p>
-
-
-
-
-
-
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sanaaziz-data/sanaaziz-data/main/Sana_GitHub_Banner_Typing(1).gif" width="100%">
+  <img src="https://raw.githubusercontent.com/sanaazizuk/sanaazizuk/main/Sana_GitHub_Banner_Typing(1).gif" width="100%">
 </p>
+
+
+
+
 
 
 # Hi, I'm Sana 👋
