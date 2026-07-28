@@ -81,7 +81,7 @@ End to end projects where I've handled everything from raw data to final output,
   Five page interactive Tableau dashboard analysing over 100,000 real CAA punctuality records across five London airports and hundreds of airlines, testing whether the busiest airport is really the least reliable one. Covered cleaning and merging of forty monthly government exports in Python, exploratory analysis in SQL including window functions, and a fully interactive dashboard with a live global flight route map and a dedicated route search page.
   `Python` `SQL` `Tableau`
 
-  - 🏘️ **[London Property Market Analysis](https://github.com/sanaazizuk/london-property-market-analysis)**
+- 🏘️ **[London Property Market Analysis](https://github.com/sanaazizuk/london-property-market-analysis)**
   Interactive Tableau dashboard built on 1.07 million real HM Land Registry transactions across all 33 London boroughs, testing whether the expensive boroughs stayed expensive by growing, and finding four of them lost value instead. Covered cleaning and row by row outlier handling in Python, exploratory analysis in SQL including window functions and a constructed median, and a dashboard that catches a mix effect understating the new build premium by a factor of three.
   `Python` `SQL` `Tableau`
 
