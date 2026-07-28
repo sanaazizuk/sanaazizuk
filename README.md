@@ -72,9 +72,6 @@ End to end projects where I've handled everything from raw data to final output,
 
 ### Real world data projects
 
-- 💊 **[London NHS Prescribing Analysis](https://github.com/sanaazizuk/London_NHS_Prescribing_Analysis)**
-  Three page Power BI report analysing over two million real NHS prescribing records across five London ICBs and ten common drugs, examining whether prescribing volume actually predicts prescribing cost. Covered data cleaning and merging of twelve monthly government exports in Python, exploratory analysis in SQL, and a custom NHS branded interactive report with KPI cards and a page navigator.
-  `Python` `SQL` `Power BI`
 
 - 🏦 **[Bank of England Rate Impact Analysis](https://github.com/sanaazizuk/Bank-of-England-rate-impact)**
   Interactive Tableau dashboard analysing 64 months of real Bank of England and ONS data, testing whether Bank Rate hikes actually predict falling mortgage approvals. Covered data cleaning and merging of six separate sources in Python, exploratory analysis in SQL including window functions, and a fully interactive, click-to-filter dashboard that catches and corrects a spurious correlation between the two series.
@@ -83,6 +80,14 @@ End to end projects where I've handled everything from raw data to final output,
 - ✈️ **[London Airport and Airline Performance Dashboard](https://github.com/sanaazizuk/london-airports-and_airlines-performance-dashboard)**
   Five page interactive Tableau dashboard analysing over 100,000 real CAA punctuality records across five London airports and hundreds of airlines, testing whether the busiest airport is really the least reliable one. Covered cleaning and merging of forty monthly government exports in Python, exploratory analysis in SQL including window functions, and a fully interactive dashboard with a live global flight route map and a dedicated route search page.
   `Python` `SQL` `Tableau`
+
+  - 🏘️ **[London Property Market Analysis](https://github.com/sanaazizuk/london-property-market-analysis)**
+  Interactive Tableau dashboard built on 1.07 million real HM Land Registry transactions across all 33 London boroughs, testing whether the expensive boroughs stayed expensive by growing, and finding four of them lost value instead. Covered cleaning and row by row outlier handling in Python, exploratory analysis in SQL including window functions and a constructed median, and a dashboard that catches a mix effect understating the new build premium by a factor of three.
+  `Python` `SQL` `Tableau`
+
+- 💊 **[London NHS Prescribing Analysis](https://github.com/sanaazizuk/London_NHS_Prescribing_Analysis)**
+  Three page Power BI report analysing over two million real NHS prescribing records across five London ICBs and ten common drugs, examining whether prescribing volume actually predicts prescribing cost. Covered data cleaning and merging of twelve monthly government exports in Python, exploratory analysis in SQL, and a custom NHS branded interactive report with KPI cards and a page navigator.
+  `Python` `SQL` `Power BI`
 
 - 🚇 **[London Underground Reliability & Station Demand Analysis](https://github.com/sanaazizuk/London_Underground_Reliability_and_Station_Demand_Analysis)**
   Five page Power BI report built on six years of real Transport for London data, examining whether reliability kept pace with passenger growth across 268 stations. Covered data cleaning and reshaping in Python, exploratory analysis in SQL, and an interactive report with DAX driven KPIs, a station map, and drill through by line.
