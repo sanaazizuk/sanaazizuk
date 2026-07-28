@@ -8,16 +8,29 @@
 
 # Hi, I'm Sana 👋
 
-I'm a data analyst based in London, with a background in Telecommunications Engineering. I got into data because I genuinely enjoy making sense of messy information, turning spreadsheets and databases into something that actually helps people make better decisions.
+I'm a data analyst based in London, with a background in Telecommunications Engineering.
 
-I hold Microsoft's DP-900 and PL-300 certifications, along with the Tableau Certified Data Analyst credential, and I use them to turn raw data into dashboards and reports that drive real business decisions.
+I came into data through the work rather than through a course. For eighteen months I was Office Manager across four Specsavers branches, Staines, Egham, Hampton and Feltham, where a large part of the job was building the reporting those branches actually ran on. Appointments, revenue, conversion, no shows, branch against branch. I presented that analysis to store stakeholders, and the branches used it to change how they operated. Watching a report actually shift a decision is what made me want to do this properly, so I went and learned the technical stack behind it.
 
-I work mostly with SQL, Excel, and Power BI day to day, with Tableau and Python in the mix depending on the project.
+Since then I've built end to end projects on real public data, working through Python cleaning, MySQL, SQL analysis, and finished dashboards in Power BI and Tableau. I hold Microsoft's DP-900 and PL-300 certifications along with the Tableau Certified Data Analyst credential.
+
+The thing I care most about in my own work is catching the numbers that look right but aren't. Most of the projects below contain at least one finding I had to correct before publishing it, and I've documented those corrections rather than quietly fixing them.
 
 **Tech Stack:** SQL • Python (Pandas, Matplotlib) • Jupyter Notebook • Power BI • Tableau • Excel • Power Query • GitHub • VS Code
 
 ---
 
+## 💼 Experience
+
+**Office Manager, Specsavers** · September 2024 to March 2026
+Staines, Egham, Hampton and Feltham branches
+
+- Built and maintained the operational reporting used across four branches, covering appointments, revenue, conversion rates and no show rates
+- Produced comparative branch against branch analysis, showing store managers and the director exactly where individual branches were falling behind their peers rather than only reporting totals
+- Contributed to measurable improvements in no show rates and conversion rates, by identifying where the drop off was happening and reporting it in a form the branch teams could act on
+- Presented findings directly to store managers and the director, translating figures into decisions rather than handing over a spreadsheet
+
+---
 
 ## 🎓 Certifications
 
@@ -58,10 +71,11 @@ COMSATS Institute of Information Technology, Lahore, Pakistan
 ---
 
 ## ⭐ Key Strengths
+- Catching measurement artefacts before they reach a dashboard  
+- Comparative performance analysis across sites and stakeholders  
 - Data cleaning & transformation  
 - Dashboard design & storytelling  
 - SQL querying & optimisation  
-- Business-focused analysis  
 - End-to-end project execution  
 
 ---
@@ -99,13 +113,13 @@ End to end projects where I've handled everything from raw data to final output,
 
 ### Earlier SQL and BI practice projects
 
+- 👓 **[Specsavers Performance (Power BI)](https://github.com/sanaazizuk/specsavers-performance-powerbi)**
+  Executive performance report analysing appointments, revenue, no shows, conversion rates, and branch performance, built with DAX, Power Query, and a proper data model. Built on a dummy dataset, chosen because these are the metrics I worked with day to day in retail optics.
+  `Power BI` `DAX` `Power Query`
+
 - ✈️ **[Airline Analysis (SQL)](https://github.com/sanaazizuk/airline-analysis-sql)**
   End to end SQL project for a fictional aviation company, covering customer, route and ticketing data. Covered constraints, joins, window functions, stored procedures, a stored function called from within a procedure, a cursor, and query optimisation proven with EXPLAIN before and after indexing.
   `SQL` `MySQL`
-
-- 👓 **[Specsavers Performance (Power BI)](https://github.com/sanaazizuk/specsavers-performance-powerbi)**
-  Executive performance report analysing Specsavers UK appointments, revenue, no shows, conversion rates, and branch performance, built with DAX, Power Query, and a proper data model.
-  `Power BI` `DAX` `Power Query`
 
 - 👩‍💻 **[ScienceQtech Employee Performance (SQL)](https://github.com/sanaazizuk/scienceqtech-employee-performance-sql)**
   HR and appraisal cycle reporting for a fictional data science startup, covering employee ratings, salary bands, bonus calculations and reporting lines. Covered views, stored procedures, a stored function, and performance tuning with indexing.
