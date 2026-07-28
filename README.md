@@ -73,11 +73,11 @@ End to end projects where I've handled everything from raw data to final output,
 ### Real world data projects
 
 
-- 🏦 **[Bank of England Rate Impact Analysis](https://github.com/sanaazizuk/Bank-of-England-rate-impact)**
+- 🏦 **[Bank of England Rate Impact Analysis](https://github.com/sanaazizuk/bank-of-england-rate-impact)**
   Interactive Tableau dashboard analysing 64 months of real Bank of England and ONS data, testing whether Bank Rate hikes actually predict falling mortgage approvals. Covered data cleaning and merging of six separate sources in Python, exploratory analysis in SQL including window functions, and a fully interactive, click-to-filter dashboard that catches and corrects a spurious correlation between the two series.
   `Python` `SQL` `Tableau`
 
-- ✈️ **[London Airport and Airline Performance Dashboard](https://github.com/sanaazizuk/london-airports-and_airlines-performance-dashboard)**
+- ✈️ **[London Airport and Airline Performance Dashboard](https://github.com/sanaazizuk/london-airports-and-airlines-performance-dashboard)**
   Five page interactive Tableau dashboard analysing over 100,000 real CAA punctuality records across five London airports and hundreds of airlines, testing whether the busiest airport is really the least reliable one. Covered cleaning and merging of forty monthly government exports in Python, exploratory analysis in SQL including window functions, and a fully interactive dashboard with a live global flight route map and a dedicated route search page.
   `Python` `SQL` `Tableau`
 
@@ -85,21 +85,21 @@ End to end projects where I've handled everything from raw data to final output,
   Interactive Tableau dashboard built on 1.07 million real HM Land Registry transactions across all 33 London boroughs, testing whether the expensive boroughs stayed expensive by growing, and finding four of them lost value instead. Covered cleaning and row by row outlier handling in Python, exploratory analysis in SQL including window functions and a constructed median, and a dashboard that catches a mix effect understating the new build premium by a factor of three.
   `Python` `SQL` `Tableau`
 
-- 💊 **[London NHS Prescribing Analysis](https://github.com/sanaazizuk/London_NHS_Prescribing_Analysis)**
+- 💊 **[London NHS Prescribing Analysis](https://github.com/sanaazizuk/london-nhs-prescribing-analysis)**
   Three page Power BI report analysing over two million real NHS prescribing records across five London ICBs and ten common drugs, examining whether prescribing volume actually predicts prescribing cost. Covered data cleaning and merging of twelve monthly government exports in Python, exploratory analysis in SQL, and a custom NHS branded interactive report with KPI cards and a page navigator.
   `Python` `SQL` `Power BI`
 
-- 🚇 **[London Underground Reliability & Station Demand Analysis](https://github.com/sanaazizuk/London_Underground_Reliability_and_Station_Demand_Analysis)**
+- 🚇 **[London Underground Reliability & Station Demand Analysis](https://github.com/sanaazizuk/london-underground-reliability-and-station-demand-analysis)**
   Five page Power BI report built on six years of real Transport for London data, examining whether reliability kept pace with passenger growth across 268 stations. Covered data cleaning and reshaping in Python, exploratory analysis in SQL, and an interactive report with DAX driven KPIs, a station map, and drill through by line.
   `Python` `SQL` `Power BI`
 
-- ⚡ **[UK Gas Reliance vs Renewables Analysis](https://github.com/sanaazizuk/UK_Gas_Reliance_vs_Renewables_Analysis)**
+- ⚡ **[UK Gas Reliance vs Renewables Analysis](https://github.com/sanaazizuk/uk-gas-reliance-vs-renewables-analysis)**
   One page Power BI report built on twelve months of real National Grid ESO generation data, examining whether UK gas reliance has genuinely fallen as wind and solar capacity has grown, or simply concentrated into specific, predictable moments. Covered data cleaning and a live data pull in Python, exploratory analysis in SQL including window functions, and an interactive report with DAX driven KPIs and an hour by month reliance heatmap.
   `Python` `SQL` `Power BI`
 
 ### Earlier SQL and BI practice projects
 
-- ✈️ **[Airline Analysis (SQL)](https://github.com/sanaazizuk/Airline_analysis_SQL)**
+- ✈️ **[Airline Analysis (SQL)](https://github.com/sanaazizuk/airline-analysis-sql)**
   End to end SQL project for a fictional aviation company, covering customer, route and ticketing data. Covered constraints, joins, window functions, stored procedures, a stored function called from within a procedure, a cursor, and query optimisation proven with EXPLAIN before and after indexing.
   `SQL` `MySQL`
 
@@ -107,7 +107,7 @@ End to end projects where I've handled everything from raw data to final output,
   Executive performance report analysing Specsavers UK appointments, revenue, no shows, conversion rates, and branch performance, built with DAX, Power Query, and a proper data model.
   `Power BI` `DAX` `Power Query`
 
-- 👩‍💻 **[ScienceQtech Employee Performance (SQL)](https://github.com/sanaazizuk/ScienceQtech_Employee_Performance_SQL)**
+- 👩‍💻 **[ScienceQtech Employee Performance (SQL)](https://github.com/sanaazizuk/scienceqtech-employee-performance-sql)**
   HR and appraisal cycle reporting for a fictional data science startup, covering employee ratings, salary bands, bonus calculations and reporting lines. Covered views, stored procedures, a stored function, and performance tuning with indexing.
   `SQL` `MySQL`
 
