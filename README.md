@@ -47,6 +47,9 @@ Staines, Egham, Hampton and Feltham branches
 COMSATS Institute of Information Technology, Lahore, Pakistan
 
 
+Grade: A
+
+
 (Assessed by UK ENIC as comparable to an RQF Level 6 bachelor’s degree (ref 4002079619)).
 
 ---
