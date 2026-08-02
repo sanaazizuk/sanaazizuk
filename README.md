@@ -45,6 +45,8 @@ Staines, Egham, Hampton and Feltham branches
 
 **BSc in Telecommunications Engineering**
 COMSATS Institute of Information Technology, Lahore, Pakistan
+
+
 (Assessed by UK ENIC as comparable to an RQF Level 6 bachelor’s degree (ref 4002079619)).
 
 ---
