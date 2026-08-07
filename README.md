@@ -12,7 +12,7 @@ I'm a data analyst based in London, with a background in Telecommunications Engi
 
 I came into data through the work rather than through a course. For eighteen months I was Office Manager across four Specsavers branches, Staines, Egham, Hampton and Feltham, where a large part of the job was building the reporting those branches actually ran on. Appointments, revenue, conversion, no shows, branch against branch. I presented that analysis to store stakeholders, and the branches used it to change how they operated. Watching a report actually shift a decision is what made me want to do this properly, so I went and learned the technical stack behind it.
 
-Since then I've built end to end projects on real public data, working through Python cleaning, MySQL, SQL analysis, and finished dashboards in Power BI and Tableau. I hold Microsoft's DP-900 and PL-300 certifications along with the Tableau Certified Data Analyst credential.
+Since then I've built end to end projects on real public data, working through Python cleaning, MySQL, SQL analysis, and finished dashboards in Power BI and Tableau. I hold Microsoft's DP-900 and PL-300 certifications along with the Salesforce Certified Tableau Data Analyst credential.
 
 The thing I care most about in my own work is catching the numbers that look right but aren't. Most of the projects below contain at least one finding I had to correct before publishing it, and I've documented those corrections rather than quietly fixing them.
 
@@ -36,21 +36,21 @@ Staines, Egham, Hampton and Feltham branches
 
 ![DP-900](https://img.shields.io/badge/Microsoft-DP--900_Azure_Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![PL-300](https://img.shields.io/badge/Microsoft-PL--300_Power_BI_Data_Analyst-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-Certified_Data_Analyst-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Salesforce-Certified_Tableau_Data_Analyst-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/Microsoft-Data_Analysis_%26_Visualization_with_Python-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft-SQL_Server_Professional_Certificate-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Google Data Analytics](https://img.shields.io/badge/Google-Data_Analytics_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ---
 ## 🎓 Education
 
-**BSc in Telecommunications Engineering**
-COMSATS Institute of Information Technology, Lahore, Pakistan
+**BSc Telecommunications Engineering**
+COMSATS Institute of Information Technology, Islamabad — Lahore Campus, Pakistan
 
 
 Grade: A
 
 
-(Assessed by UK ENIC as comparable to an RQF Level 6 bachelor’s degree (ref 4002079619)).
+(Assessed by UK ENIC as comparable to an RQF Level 6 bachelor's degree (ref 4002079619)).
 
 ---
 
@@ -82,7 +82,7 @@ Grade: A
 - Data cleaning & transformation  
 - Dashboard design & storytelling  
 - SQL querying & optimisation  
-- End-to-end project execution  
+- End to end project execution  
 
 ---
 
@@ -94,7 +94,7 @@ End to end projects where I've handled everything from raw data to final output,
 
 
 - 🏦 **[Bank of England Rate Impact Analysis](https://github.com/sanaazizuk/bank-of-england-rate-impact)**
-  Interactive Tableau dashboard analysing 64 months of real Bank of England and ONS data, testing whether Bank Rate hikes actually predict falling mortgage approvals. Covered data cleaning and merging of six separate sources in Python, exploratory analysis in SQL including window functions, and a fully interactive, click-to-filter dashboard that catches and corrects a spurious correlation between the two series.
+  Interactive Tableau dashboard analysing 64 months of real Bank of England and ONS data, testing whether Bank Rate hikes actually predict falling mortgage approvals. Covered data cleaning and merging of six separate sources in Python, exploratory analysis in SQL including window functions, and a fully interactive, click to filter dashboard that catches and corrects a spurious correlation between the two series.
   `Python` `SQL` `Tableau`
 
 - ✈️ **[London Airport and Airline Performance Dashboard](https://github.com/sanaazizuk/london-airports-and-airlines-performance-dashboard)**
@@ -114,7 +114,7 @@ End to end projects where I've handled everything from raw data to final output,
   `Python` `SQL` `Power BI`
 
 - ⚡ **[UK Gas Reliance vs Renewables Analysis](https://github.com/sanaazizuk/uk-gas-reliance-vs-renewables-analysis)**
-  One page Power BI report built on twelve months of real National Grid ESO generation data, examining whether UK gas reliance has genuinely fallen as wind and solar capacity has grown, or simply concentrated into specific, predictable moments. Covered data cleaning and a live data pull in Python, exploratory analysis in SQL including window functions, and an interactive report with DAX driven KPIs and an hour by month reliance heatmap.
+  One page Power BI report built on twelve months of real National Energy System Operator (NESO) generation data, examining whether UK gas reliance has genuinely fallen as wind and solar capacity has grown, or simply concentrated into specific, predictable moments. Covered data cleaning and a live data pull in Python, exploratory analysis in SQL including window functions, and an interactive report with DAX driven KPIs and an hour by month reliance heatmap.
   `Python` `SQL` `Power BI`
 
 ### Earlier SQL and BI practice projects
